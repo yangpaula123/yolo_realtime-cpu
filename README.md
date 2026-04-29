@@ -1,4 +1,4 @@
-# YOLOv8 实时目标检测 Web 应用
+# YOLOv8n 实时目标检测 Web 应用
 
 基于Streamlit的YOLOv8n实时目标检测Web应用，支持通过浏览器进行实时视频流检测。
 
